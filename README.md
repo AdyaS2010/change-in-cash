@@ -37,7 +37,7 @@ Change owed: 41
 ```
 
 ![image](https://github.com/user-attachments/assets/ef00f58a-3237-4c28-9e9f-548eed78cb7e)
-*As seen in the image, the minimum coins it takes to fulfill 210 cents of change is 11!*
+*As seen in the image, the minimum coins it takes to fulfill 216 cents of change is 11!*
 
 ## Contributing
 1. Fork the repository.
